@@ -74,9 +74,9 @@ function Home() {
                         />
                     </div>
                 </div>
-                {/* <div className='github'>
+                <div className='github'>
                     <a className='github-link' href='https://github.com/mPartyNec/kaiju-kingz-wl-marketplace' target='_blank' rel="noreferrer">GitHub Repo</a>
-                </div> */}
+                </div>
             </div>
             <div className='main-div'>
                 {(!selected1 && !selected2 && !selected3 && !selected4) && <h1 className='subheading'>
