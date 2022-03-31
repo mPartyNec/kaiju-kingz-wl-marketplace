@@ -1,0 +1,33 @@
+.idea-container {
+    margin-top: 24px;
+    margin-left: 9px;
+    margin-right: 9px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+}
+
+.idea-container-selected {
+    margin-top: 24px;
+    margin-left: 9px;
+    margin-right: 9px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #3e3a498f; 
+}
+
+.github {
+    position: absolute;
+    bottom: 24px;
+    left: 100.625px;
+}
+
+.github-link {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-family: Thaleah;
+    font-size: 20px;
+}
